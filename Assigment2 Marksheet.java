@@ -65,7 +65,7 @@ class mark_sheet
 
         //printing the page layout.
         //----------------------------------------------------------------------------------------------------------------------------------
-        System.out.println("Wlecome to the Student Mark List Application");
+        System.out.println("Welcome to the Student Mark List Application");
         System.out.println("...................................................................................................................................................");
         System.out.println("SNo Student Name\tSub1\tSub2\tSub3\tSub4\tSub5\tTotal\tAverage");
         System.out.println(".....................................................................................................................................................");
